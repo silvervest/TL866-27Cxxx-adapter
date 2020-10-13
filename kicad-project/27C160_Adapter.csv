@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R3,R2,R1,R4,R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";5;"10k";;;
+2;"Q1";"TO-92_Inline";1;"BC327";;;
+3;"G***";"logo_silvestron_7.5mm";1;"LOGO";;;
+4;"SW2";"SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm";1;"SW_DIP_x03";;;
+5;"SW1";"SW_E-Switch_EG1271_DPDT";1;"MS22D16";;;
+6;"U1";"27C4002";1;"27C4002";;;
+7;"ZX1";"3M_248-3345";1;"3M_248-3345";;;
+8;"REF01";"OSHW-Logo2_9.8x8mm_SilkScreen";1;"OSHW-Logo2_9.8x8mm_SilkScreen";;;

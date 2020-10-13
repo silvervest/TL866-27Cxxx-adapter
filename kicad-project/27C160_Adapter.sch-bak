@@ -838,10 +838,10 @@ F 3 "~" H 1900 2000 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Transistor_BJT:BC327 Q1
+L Transistor_BJT:BC327 Q?
 U 1 1 5F88FF69
 P 4600 2300
-F 0 "Q1" H 4791 2346 50  0000 L CNN
+F 0 "Q?" H 4791 2346 50  0000 L CNN
 F 1 "BC327" H 4791 2255 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 4800 2225 50  0001 L CIN
 F 3 "http://www.onsemi.com/pub_link/Collateral/BC327-D.PDF" H 4600 2300 50  0001 L CNN
@@ -849,56 +849,56 @@ F 3 "http://www.onsemi.com/pub_link/Collateral/BC327-D.PDF" H 4600 2300 50  0001
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Device:R R1
+L Device:R R?
 U 1 1 5F891AFC
 P 2400 1600
-F 0 "R1" H 2330 1554 50  0000 R CNN
+F 0 "R?" H 2330 1554 50  0000 R CNN
 F 1 "10k" H 2330 1645 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2330 1600 50  0001 C CNN
+F 2 "" V 2330 1600 50  0001 C CNN
 F 3 "~" H 2400 1600 50  0001 C CNN
 	1    2400 1600
 	1    0    0    1   
 $EndComp
 $Comp
-L Device:R R2
+L Device:R R?
 U 1 1 5F8923D7
 P 2600 1600
-F 0 "R2" H 2530 1554 50  0000 R CNN
+F 0 "R?" H 2530 1554 50  0000 R CNN
 F 1 "10k" H 2530 1645 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2530 1600 50  0001 C CNN
+F 2 "" V 2530 1600 50  0001 C CNN
 F 3 "~" H 2600 1600 50  0001 C CNN
 	1    2600 1600
 	1    0    0    1   
 $EndComp
 $Comp
-L Device:R R3
+L Device:R R?
 U 1 1 5F892809
 P 2800 1600
-F 0 "R3" H 2730 1554 50  0000 R CNN
+F 0 "R?" H 2730 1554 50  0000 R CNN
 F 1 "10k" H 2730 1645 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2730 1600 50  0001 C CNN
+F 2 "" V 2730 1600 50  0001 C CNN
 F 3 "~" H 2800 1600 50  0001 C CNN
 	1    2800 1600
 	1    0    0    1   
 $EndComp
 $Comp
-L Device:R R4
+L Device:R R?
 U 1 1 5F892B24
 P 3900 1600
-F 0 "R4" H 3830 1554 50  0000 R CNN
+F 0 "R?" H 3830 1554 50  0000 R CNN
 F 1 "10k" H 3830 1645 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3830 1600 50  0001 C CNN
+F 2 "" V 3830 1600 50  0001 C CNN
 F 3 "~" H 3900 1600 50  0001 C CNN
 	1    3900 1600
 	1    0    0    1   
 $EndComp
 $Comp
-L Device:R R5
+L Device:R R?
 U 1 1 5F892FAB
 P 5200 2300
-F 0 "R5" V 4993 2300 50  0000 C CNN
+F 0 "R?" V 4993 2300 50  0000 C CNN
 F 1 "10k" V 5084 2300 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5130 2300 50  0001 C CNN
+F 2 "" V 5130 2300 50  0001 C CNN
 F 3 "~" H 5200 2300 50  0001 C CNN
 	1    5200 2300
 	0    1    1    0   
