@@ -32,7 +32,7 @@ If your are programming a 27C322 EPROMs, move the switch to the **Position 27c32
 
 ![Adapter mode](images/addapter_mode.jpg)
 
-Launch the MiniPro software, select `AMD 27C4096 DIP40` device, deselect `Check ID` and set `Pulse Delay` to `50us`. You may also optionally reduce `VPP Voltage` to `12.50V`, depending on your EPROM's datasheet and programming success.
+Launch the MiniPro/Xgpro software, select `AMD 27C4096 DIP40` device, deselect `Check ID` and set `Pulse Delay` to `50us`. You may also optionally reduce `VPP Voltage` to `12.50V`, depending on your EPROM's datasheet and programming success.
 
 ![MiniPro Software Configuration](images/minipro.jpg)
 
